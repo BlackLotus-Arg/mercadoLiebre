@@ -140,6 +140,8 @@ nav ul{
 footer{
     background-color: white;
     text-align: center;
+    margin-top: 30px;
+    padding: 25px;
 }
 
 .fa-credit-card {
